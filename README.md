@@ -1,3 +1,6 @@
+# HASL Departure Lovelace Card with openEpaperlink
+This is a version of the HASL Depature Lovelace Card that also sends data to an openEpaperLink display.
+
 # HASL Departure Lovelace Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
